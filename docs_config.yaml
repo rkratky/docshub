@@ -1,0 +1,9 @@
+projects:
+  - name: "Ubuntu for developers"
+    description: "Development tools, workflows, and environment guides for Ubuntu developers"
+    llms_txt_url: "https://documentation.ubuntu.com/ubuntu-for-developers/llms.txt"
+
+  - name: "Ubuntu project"
+    description: "Governance, policies, and structure of the Ubuntu open-source project"
+    llms_txt_url: "https://documentation.ubuntu.com/project/llms.txt"
+
